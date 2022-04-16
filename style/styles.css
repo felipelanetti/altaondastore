@@ -7,3 +7,14 @@
   background-color: rgb(160, 160, 160);
 }
 
+#collapsibleNavbar {
+  text-align: right;
+}
+
+#mainMargin {
+  padding-top: 80px;
+}
+
+#nombreTienda {
+  font-weight: bold;
+}
