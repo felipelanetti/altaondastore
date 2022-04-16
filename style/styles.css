@@ -4,17 +4,6 @@
 }
 
 .mainContainer {
-  background-color: rgb(211, 211, 211);
+  background-color: rgb(160, 160, 160);
 }
 
-header {
-  background-color: rgb(73, 73, 73);
-}
-
-#name {
-  color: aqua;
-} 
-
-#pillsfont {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
