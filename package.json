@@ -1,0 +1,8 @@
+{"scripts": {
+    "activate": "cd ALO/Scripts && activate && cd ../..",
+    "backend": "cd back && python manage.py runserver && cd ..",
+    "frontend": "cd front && npm run dev",
+    "front": "npm run activate && npm run backend",
+    "back": "npm run activate && npm run frontend"
+  }
+}

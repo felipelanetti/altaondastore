@@ -1,0 +1,25 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "Tienda Online de Ropa",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipelanetti/altaondastore.git"
+  },
+  "keywords": [
+    "ropa"
+  ],
+  "author": "Daniel Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipelanetti/altaondastore/issues"
+  },
+  "homepage": "https://github.com/felipelanetti/altaondastore#readme",
+  "devDependencies": {
+    "webpack": "^5.72.0"
+  }
+}
