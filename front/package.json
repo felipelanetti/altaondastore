@@ -4,7 +4,11 @@
   "description": "Tienda Online de Ropa",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "activate": "cd ../ALO/Scripts && activate && cd ../..",
+    "backend": "cd ../back && python manage.py runserver && cd ..",
+    "front": "npm run activate && npm run backend",
+    "back": "npm run activate && npm run frontend"
   },
   "repository": {
     "type": "git",
