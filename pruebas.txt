@@ -1,0 +1,22 @@
+#--Primer header de la pagina 
+
+
+<header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+            <a class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none" href="">
+            <h2 style="color: aqua;"><i class="bi bi-balloon-heart" width="40" height="32"></i></h2>
+            <span class="fs-4"><h3 id="name">AltaOndaStore</h3></span>
+            </a>
+        
+
+        <ul id ="pillsfont" class="nav nav-pills">
+            <li class="nav-item">
+                <a class="nav-link active" href="">Home</a></li>
+            <li class="nav-item">
+                <a class="nav-link" href="">ProductosStore</a></li>
+            <li class="nav-item">
+                <a class="nav-link" href="">Nosotros</a></li>
+            <li class="nav-item">
+                <a class="nav-link" href="">Contacto</a></li>
+        </ul>          
+    
+    </header>    
